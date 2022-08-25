@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@1&display=swap');
+*{font-family: 'IBM Plex Mono', monospace !important;}
+html{height: 100%;}
+body{background-repeat: no-repeat; height: 100%; background-image: linear-gradient(to right top, #2d372f, #313a33, #363d36, #3a413a, #3e443e, #3e443e, #3e443d, #3e443d, #394039, #353d34, #303930, #2c362c);}
+.mainsection{float: left; width: 100%;height: 100%;}
+.autotyping{margin: 25% auto;}
+.autotyping h1{float: left; width: 100%; font-size: 3.5em; padding: 20px; text-align: center; color: #fff;text-shadow: 3px 2px 4px rgba(71, 221, 99, 1); vertical-align: middle;}
